@@ -1,0 +1,606 @@
+{
+  "translation": {
+    "earn": "كسب",
+    "stake": "استثمار",
+    "farm": "مزرعة",
+    "disconnect": "قطع الاتصال",
+    "transactionSettings": "إعدادات المعاملة",
+    "from": "من",
+    "to": "إلى",
+    "calculating": "جاري الحساب...",
+    "errorCalculating": "خطأ في الحساب.",
+    "priceRate": "1 {tokenA} ≈ {rate} {tokenB}",
+    "preconditionsNotMetTitle": "الشروط المسبقة غير مستوفاة",
+    "preconditionsNotMetDescription": "الرجاء توصيل المحفظة وإدخال مبلغ صالح.",
+    "outputAmountErrorTitle": "خطأ في مبلغ الإخراج",
+    "outputAmountErrorDescription": "تعذر حساب مبلغ إخراج صالح.",
+    "tokenErrorTitle": "خطأ في الرمز المميز",
+    "tokenErrorDescription": "أرقام عشرية للرمز المميز مفقودة. لا يمكن المتابعة.",
+    "swapSuccessTitle": "تم التبديل بنجاح!",
+    "swapSuccessDescription": "تمت معالجة معاملتك. <link>عرض على المستكشف</link>",
+    "swapFailedTitle": "فشل التبديل",
+    "swapFailedDescription": "حدث خطأ غير معروف أثناء التبديل.",
+    "swap": "تبديل",
+    "processing": "جاري المعالجة...",
+    "lang_ar_full": "العربية (العربية)",
+    "lang_de_full": "Deutsch (ألمانية)",
+    "lang_en_full": "English (إنجليزية)",
+    "lang_es_full": "Español (إسبانية)",
+    "lang_fr_full": "Français (فرنسية)",
+    "lang_hi_full": "हिन्दी (هندية)",
+    "lang_id_full": "Bahasa Indonesia (إندونيسية)",
+    "lang_ja_full": "日本語 (يابانية)",
+    "lang_ko_full": "한국어 (كورية)",
+    "lang_ru_full": "Русский (روسية)",
+    "lang_zh_full": "中文 (صينية)",
+    "lang_pt_full": "Português (برتغالية)",
+    "spikeMeme": "ميم سبايك",
+    "degen": "ديجن",
+    "buySpike": "شراء سبايك",
+    "nft": "NFT",
+    "crowd": "حشد",
+    "network": "الشبكة",
+    "mainnet": "الشبكة الرئيسية",
+    "testnet": "شبكة الاختبار",
+    "connectWallet": "توصيل المحفظة",
+    "trade": "تداول",
+    "getFreeSupra": "احصل على SUPRA مجاني",
+    "loading": "جاري التحميل...",
+    "create": "إنشاء",
+    "memes": "ميمات",
+    "daos": "منظمات DAO",
+    "memeFactoryDaoBuilder": "مصنع الميمات + منشئ DAO. حيث تلتقي الإبداع بالبلوكتشين! 🚀✨",
+    "chatWithSpike": "الدردشة مع سبايك",
+    "transactionSuccessful": "تمت المعاملة بنجاح",
+    "viewOnExplorer": "عرض على المستكشف",
+    "error": "خطأ",
+    "topProjects": "أهم المشاريع",
+    "search": "بحث",
+    "searchForMemes": "البحث عن الميمات...",
+    "ticker": "الرمز",
+    "contract": "العقد",
+    "red": "الشبكة",
+    "supra": "سوبرا",
+    "createdBy": "تم الإنشاء بواسطة",
+    "spinSpin": "دوران دوران...",
+    "buy": "شراء",
+    "sell": "بيع",
+    "balance": "الرصيد",
+    "editPercentages": "تعديل النسب المئوية",
+    "cancel": "إلغاء",
+    "save": "حفظ",
+    "bondingCurveProgress": "تقدم منحنى الربط",
+    "migrateToDEX": "الترحيل إلى DEX",
+    "twitchUnofficial": "🎥 تويتش (غير رسمي)",
+    "hideComments": "إخفاء التعليقات",
+    "showComments": "إظهار التعليقات",
+    "amount": "المبلغ",
+    "collapse": "طي",
+    "expand": "توسيع",
+    "contractLabel": "العقد",
+    "created": "تم الإنشاء",
+    "serverError": "خطأ في الخادم...",
+    "timeIsUp": "انتهى الوقت!",
+    "months": "أشهر",
+    "days": "أيام",
+    "hours": "ساعة",
+    "minutes": "دقيقة",
+    "seconds": "ثانية",
+    "airdrop": "إيردروب",
+    "sellFee": "رسوم البيع",
+    "firstNFTCollection": "أول مجموعة NFT على سوبرا",
+    "copy": "نسخ",
+    "price": "السعر",
+    "minting": "جاري السك...",
+    "mintYourNFT": "سك NFT الخاص بك",
+    "minted": "تم السك",
+    "successfulTransaction": "تمت المعاملة بنجاح!",
+    "transactionProcessed": "تمت معالجة معاملتك بنجاح.",
+    "txHash": "معرف المعاملة",
+    "noTransactionYet": "لا توجد معاملات بعد",
+    "close": "إغلاق",
+    "spikeCrowdfunding": "تمويل سبايك الجماعي",
+    "crowdDescription": "ساعد في تدقيق عقود AMM و launcher pad لـ Spike على شبكة Supra! تبرع بـ BTC أو BNB أو Solana أو EVM أو Supra وانضم إلى تجربة Spike. 🚀",
+    "target": "الهدف",
+    "contractAudited": "العقد المدقق",
+    "raised": "تم جمعها",
+    "goal": "الهدف",
+    "multiChainDonationAddresses": "عناوين التبرع متعددة السلاسل",
+    "solana": "سولانا",
+    "eth": "إيثريوم",
+    "btc": "بيتكوين",
+    "bnb": "بينانس كوين",
+    "BTC": "بيتكوين",
+    "BNB": "بينانس كوين",
+    "donateSupra": "تبرع بـ SUPRA",
+    "enterAmount": "أدخل المبلغ",
+    "donate": "تبرع",
+    "claimRewards": "المطالبة بالمكافآت",
+    "rewardsAvailableIn": "ستكون المكافآت متاحة في:",
+    "rewardsAvailableNow": "المكافآت متاحة الآن!",
+    "claimLocked": "المطالبة مقفلة",
+    "claimRewardsButton": "المطالبة بالمكافآت",
+    "success": "نجاح!",
+    "joinedSpikeMission": "لقد انضممت إلى مهمة سبايك!",
+    "viewTransaction": "عرض المعاملة",
+    "rewardsClaimed": "تمت المطالبة بالمكافآت!",
+    "cosmicTokensYours": "رموزك الكونية ملكك!",
+    "fetchError": "خطأ في الجلب",
+    "loadingInfo": "جاري تحميل معلومات المجمع...",
+    "poolInfoUnavailable": "قسم التعليقات غير متاح لهذا المجمع.",
+    "selectToken": "تحديد الرمز المميز",
+    "searchTokenPlaceholder": "ابحث عن الرمز بالاسم أو الرمز المختصر أو الصق العنوان...",
+    "showOnlyVerified": "عرض المعتمد فقط",
+    "noTokensMatch": "لا توجد رموز تطابق بحثك.",
+    "amountPlaceholder": "0.0",
+    "CreateNewStakingPool": "إنشاء مجمع Staking جديد",
+    "CloseModal": "إغلاق النافذة المنبثقة",
+    "PoolType": "نوع المجمع",
+    "NormalPool": "مجمع عادي",
+    "BoostedPoolNFT": "مجمع معزز (NFT)",
+    "TokenSelection": "اختيار الرمز المميز",
+    "StakingToken": "رمز Staking",
+    "RewardToken": "رمز المكافأة",
+    "RewardAmount": "مبلغ المكافأة",
+    "StakingDuration": "مدة Staking",
+    "BoostSettings": "إعدادات التعزيز",
+    "RequiredNFT": "NFT مطلوب",
+    "ChangeNFT": "تغيير NFT",
+    "SelectNFT": "تحديد NFT",
+    "NoNFTselectedClick": "لم يتم تحديد NFT. انقر أعلاه لاختيار واحد.",
+    "BoostPercentage": "نسبة التعزيز",
+    "eg10": "مثال، 10",
+    "BoostMustBeBetween": "يجب أن يكون التعزيز بين 0 و 100%.",
+    "EnterValueBetween": "أدخل قيمة بين 0 و 100.",
+    "CreatingPool": "جاري إنشاء المجمع...",
+    "CreateStakingPool": "إنشاء مجمع Staking",
+    "ConnectWallet": "توصيل المحفظة",
+    "feeUSD": "الرسوم: 1037 SUPRA (3 دولار أمريكي)",
+    "PoolCreated": "تم إنشاء المجمع!",
+    "YourNewStakingPoolHasBeenSuccessfullyCreated": "تم إنشاء مجمع Staking الجديد الخاص بك بنجاح.",
+    "SelectSTAKINGToken": "تحديد رمز STAKING",
+    "SelectREWARDToken": "تحديد رمز المكافأة",
+    "ExploreLiquidityPools": "استكشاف مجمعات السيولة",
+    "addLiquidity": "إضافة سيولة",
+    "Loadingtokenlist": "جاري تحميل قائمة الرموز المميزة...",
+    "ShowExtraDetails": "إظهار تفاصيل إضافية",
+    "HideExtraDetails": "إخفاء تفاصيل إضافية",
+    "volume24h": "الحجم (24 ساعة)",
+    "tvl": "إجمالي القيمة المقفلة",
+    "AddLP": "إضافة LP",
+    "RemoveLP": "إزالة LP",
+    "swapDetails": "تفاصيل التبديل",
+    "minimumReceived": "الحد الأدنى المستلم",
+    "fee": "الرسوم",
+    "priceImpact": "تأثير السعر",
+    "valueDifference": "فرق القيمة",
+    "slippageTolerance": "تسامح الانزلاق",
+    "tradingFee": "رسوم التداول",
+    "slippageWarningMedium": "قد يؤدي الانزلاق المرتفع إلى سعر تنفيذ أقل تفضيلاً.",
+    "slippageWarningHigh": "تحذير: قد تتعرض معاملتك لـ front-run أو تفشل.",
+    "slippageWarningExtreme": "خطر: انزلاق شديد. خطر كبير للفشل أو خسارة كبيرة في القيمة.",
+    "confirmExtremeRisk": "أتفهم خطر الانزلاق الشديد.",
+    "swapWithCaution": "تبديل بحذر",
+    "highRiskSwap": "تبديل عالي المخاطر",
+    "confirmHighRiskSwap": "تأكيد التبديل عالي المخاطر",
+    "priceImpactWarningExtreme": "خطر: تأثير سعر شديد. ستؤدي هذه المعاملة إلى خسارة كبيرة في القيمة.",
+    "connectWallettoContinue": "توصيل المحفظة للمتابعة",
+    "RemoveLiquidity": "إزالة السيولة",
+    "RemoveLiquidityfrom": "إزالة السيولة من",
+    "AmountofLPTokens": "كمية رموز LP",
+    "LPToken": "رمز LP",
+    "Creator": "المنشئ",
+    "volume7d": "الحجم (7 أيام)",
+    "fees7d": "الرسوم (7 أيام)",
+    "apr7d": "APR (7 أيام)",
+    "poolVersion": "إصدار المجمع",
+    "FeeTier": "Fee Tier",
+    "copyAddress": "نسخ العنوان",
+    "copied": "تم النسخ!",
+    "slippageSettings": "إعدادات الانزلاق",
+    "currentSlippage": "الانزلاق الحالي",
+    "highSlippageWarning": "انزلاق عالي! قد يتم التلاعب بمعاملتك.",
+    "presetSlippage": "الانزلاق المحدد مسبقًا",
+    "customSlippage": "انزلاق مخصص",
+    "slippageRange": "أدخل قيمة بين 0.01% و 50%",
+    "resetToDefault": "إعادة تعيين إلى الافتراضي (0.5%)",
+    "done": "تم",
+    "sharePool": "مشاركة المجمع",
+    "poolSearchBar": {
+      "placeholder": "البحث عن المجمعات حسب عنوان الزوج أو الرمز",
+      "verified": "تم التحقق",
+      "search": "بحث"
+    },
+    "countdown": {
+      "completed": "بدأ الحدث!",
+      "days": "أيام",
+      "hours": "ساعات",
+      "minutes": "دقائق",
+      "seconds": "ثواني",
+      "spikeyChamp": "Spikey Champ"
+    },
+    "popupAddLP": {
+      "balanceLoading": "جاري تحميل الرصيد",
+      "balanceStillLoading": "رصيد الرمز المميز {side} لا يزال قيد التحميل.",
+      "balanceUnavailable": "الرصيد غير متاح",
+      "balanceOrDecimalsUnavailable": "رصيد الرمز المميز {side} أو الأرقام العشرية غير متاحة. الرصيد: {balance}",
+      "calculationError": "خطأ في الحساب",
+      "calculationErrorDescription": "تعذر حساب {percentage}% للرمز المميز {side}.",
+      "selectionMissing": "الاختيار مفقود",
+      "selectionMissingDescription": "الرجاء تحديد كلا الرمزين وتوصيل محفظتك.",
+      "invalidAmounts": "مبالغ غير صالحة",
+      "invalidAmountsDescription": "الرجاء إدخال مبالغ صالحة وإيجابية لكلا الرمزين.",
+      "missingInfo": "معلومات مفقودة",
+      "missingInfoDescription": "معلومات الأرقام العشرية للرمز المميز مفقودة. لا يمكن المتابعة.",
+      "cannotPairNative": "لا يمكن إقران Supra Native مع Supra Native.",
+      "liquidityAddedTitle": "تمت إضافة السيولة!",
+      "liquidityAddedSuccess": "تمت إضافة سيولتك بنجاح.",
+      "failedToAddLiquidity": "فشل في إضافة السيولة",
+      "unknownError": "حدث خطأ غير معروف.",
+      "retry": "إعادة المحاولة",
+      "provideEqualValue": "توفير رموز بقيمة متساوية",
+      "selectCoin": "تحديد العملة",
+      "selectTokenA": "تحديد الرمز المميز A",
+      "tokenA": "الرمز المميز A",
+      "tokenB": "الرمز المميز B"
+    },
+    "popupLP": {
+      "balanceNotAvailable": "الرصيد غير متاح",
+      "balanceNotAvailableDescription": "الرجاء الانتظار حتى يتم تحميل الرصيد أو التحقق من اتصالك.",
+      "invalidBalance": "رصيد غير صالح",
+      "invalidBalanceDescription": "لا يوجد رصيد متاح لهذا الرمز المميز.",
+      "tokensNotSelected": "لم يتم تحديد الرموز المميزة",
+      "tokensNotSelectedDescription": "الرجاء تحديد كلا الرمزين لإضافة السيولة.",
+      "walletNotConnected": "المحفظة غير متصلة",
+      "walletNotConnectedDescription": "الرجاء توصيل محفظتك للمتابعة.",
+      "tokenError": "خطأ في الرمز المميز",
+      "tokenErrorDescription": "معلومات الأرقام العشرية للرمز المميز مفقودة. لا يمكن المتابعة.",
+      "invalidAmounts": "مبالغ غير صالحة",
+      "invalidAmountsDescription": "الرجاء إدخال مبالغ صالحة وإيجابية لكلا الرمزين.",
+      "cannotPairNative": "لا يمكن إقران Supra Native مع Supra Native.",
+      "liquidityAddedTitle": "تمت إضافة السيولة!",
+      "liquidityAddedSuccess": "تمت إضافة سيولتك بنجاح.",
+      "failedToAddLiquidity": "فشل في إضافة السيولة",
+      "unknownError": "حدث خطأ غير معروف.",
+      "detailedInfoError": "خطأ: تعذر العثور على معلومات مفصلة لأحد الرمزين أو كليهما في المجمع المحدد.",
+      "tokenAId": "معرف الرمز المميز A: {symbol} {id}",
+      "tokenBId": "معرف الرمز المميز B: {symbol} {id}",
+      "copied": "تم النسخ!",
+      "linkCopiedTitle": "Link Copied!",
+      "linkCopiedDesc": "The shareable link for this pool has been copied to your clipboard."
+    }
+  },
+  "comments": {
+    "title": "التعليقات",
+    "addCommentPlaceholder": "أضف تعليقًا...",
+    "uploadMediaTitle": "تحميل صورة/فيديو",
+    "posting": "جاري النشر...",
+    "postButton": "نشر",
+    "removeMediaTitle": "إزالة الوسائط",
+    "connectWalletError": "!توصيل المحفظة!",
+    "missingInfoError": "معلومات العقد أو الشبكة مفقودة.",
+    "emptyCommentError": "لا يمكن نشر تعليق فارغ.",
+    "unknownError": "حدث خطأ غير معروف.",
+    "loading": "جاري تحميل التعليقات...",
+    "noComments": "لا توجد تعليقات بعد. كن أول من يعلق!",
+    "loadingInfo": "جاري تحميل معلومات المجمع...",
+    "poolInfoUnavailable": "قسم التعليقات غير متاح لهذا المجمع.",
+    "fetchError": "خطأ في جلب التعليقات",
+    "connectWalletPrompt": "توصيل المحفظة للتعليق",
+    "signingFailedOrCancelled": "فشل التوقيع أو تم إلغاؤه"
+  },
+  "Footer": {
+    "brandName": "Spikey Corp",
+    "copyright": "© {year} Spikey Corp. جميع الحقوق محفوظة.",
+    "explore": "استكشاف",
+    "community": "الانضمام إلى المجتمع",
+    "whitepaper": "الورقة البيضاء",
+    "terms": "شروط الخدمة",
+    "privacy": "سياسة الخصوصية",
+    "secretTooltip": "ما هذا؟",
+    "secretTooltip2": "استمر...",
+    "secretTooltip3": "مرة أخرى!"
+  },
+  "Farm": {
+    "poolConcluded": "تم إنهاء المجمع",
+    "dynamicPool": "مجمع ديناميكي - يتم تحديد المدة عند الانتهاء",
+    "poolEnded": "انتهى المجمع",
+    "stakesClosed": "تم إغلاق الرهانات لهذا المجمع",
+    "stake": "Stake",
+    "poolEndedNoStake": "انتهى المجمع ولا يوجد رهان",
+    "unstake": "Unstake",
+    "hideDetails": "إخفاء التفاصيل",
+    "showDetails": "إظهار التفاصيل",
+    "viewPoolCreator": "عرض منشئ المجمع",
+    "popupUnstake": {
+      "stakedPosition": "موضع Staked",
+      "tokenStaked": "{tokenName} Staked:",
+      "stakeMore": "Staking المزيد",
+      "unstake": "إلغاء Staking",
+      "tokenEarned": "{tokenSymbol} المكتسبة",
+      "claimRewards": "المطالبة بالمكافآت",
+      "viewRewardToken": "عرض رمز المكافأة",
+      "viewStakeToken": "عرض رمز Staking"
+    },
+    "stakeModal": {
+      "title": "Staking {tokenName}",
+      "network": "({network})",
+      "close": "إغلاق النافذة المنبثقة",
+      "amountToStake": "المبلغ المراد Stakingه",
+      "balance": "الرصيد",
+      "loading": "جاري التحميل...",
+      "nftBoostZoneTitle": "🚀 منطقة تعزيز NFT",
+      "nftRequirement": "يتطلب المجمع NFT من: ",
+      "nftBoostBonus": " لتعزيز +{percent}%.",
+      "hideSummary": "إخفاء ملخص Staking",
+      "showSummary": "إظهار ملخص Staking",
+      "summaryTitle": "ملخص Staking",
+      "summaryStakeAmount": "{tokenSymbol} المراد Stakingه:",
+      "summaryApy": "APY للمجمع:",
+      "summaryRewardToken": "رمز المكافأة:",
+      "confirmButton": "تأكيد Staking",
+      "stakingButton": "جاري Staking...",
+      "connectWalletButton": "توصيل المحفظة لـ Staking",
+      "errorPrefix": "خطأ",
+      "loadingBoostStatus": "جاري تحميل حالة التعزيز...",
+      "boostActive": "✅ Staking الخاص بك معزز حاليًا!",
+      "boostedAmount": "مبلغ Staking المعزز: {amount} {symbol}",
+      "applyBoostButton": "تطبيق التعزيز",
+      "applyingBoostButton": "...",
+      "lockupPeriodInfo": "بمجرد تنفيذ الستيك، سيتم قفل رموزك لمدة {amount} أيام. بعد هذه الفترة، يمكنك إلغاء الستيك.",
+      "alerts": {
+        "invalidInputTitle": "إدخال غير صالح",
+        "invalidInputDesc": "الرجاء توصيل محفظتك، وتحديد مجمع، وإدخال مبلغ Staking صالح.",
+        "insufficientBalanceTitle": "رصيد غير كافٍ",
+        "insufficientBalanceDesc": "يتجاوز مبلغ Staking رصيد محفظتك لهذا الرمز المميز.",
+        "nftDataIncompleteTitle": "بيانات NFT غير مكتملة",
+        "nftDataIncompleteDesc": "NFT المحدد يفتقر إلى معلومات المعرف المطلوبة للتعزيز.",
+        "txSuccessTitle": "تمت المعاملة بنجاح!",
+        "stakeSuccess": "تم Staking {amount} {symbol} بنجاح!",
+        "stakeAndBoostSuccess": "تم Staking وتعزيز {amount} {symbol} بنجاح!",
+        "viewOnExplorer": "<link>عرض على المستكشف</link>",
+        "stakeFailedTitle": "فشل Staking",
+        "stakeAndBoostFailedTitle": "فشل Staking والتعزيز",
+        "unknownError": "حدث خطأ غير معروف.",
+        "stakeIncompleteTitle": "Staking غير مكتمل",
+        "stakeAndBoostIncompleteTitle": "Staking والتعزيز غير مكتملين",
+        "txIncompleteDesc": "يبدو أن العملية قد انتهت، ولكن لم يتم تأكيد معرف المعاملة. الرجاء التحقق من Staking الخاص بك.",
+        "walletNotConnectedTitle": "المحفظة غير متصلة",
+        "walletNotConnectedDesc": "الرجاء توصيل محفظتك.",
+        "poolErrorTitle": "خطأ في المجمع",
+        "poolErrorDesc": "بيانات المجمع غير متاحة.",
+        "nftNotSelectedTitle": "لم يتم تحديد NFT",
+        "nftNotSelectedDesc": "الرجاء تحديد NFT لتطبيق التعزيز.",
+        "noStakeTitle": "لا يوجد Staking",
+        "noStakeDesc": "تحتاج إلى Staking موجود أو Staking مبلغ لتطبيق تعزيز.",
+        "alreadyBoostedTitle": "معزز بالفعل",
+        "alreadyBoostedDesc": "Staking الخاص بك في هذا المجمع معزز بالفعل.",
+        "applyBoostFailedTitle": "فشل تطبيق التعزيز",
+        "applyBoostFailedDesc": "حدث خطأ غير معروف أثناء تطبيق التعزيز.",
+        "applyBoostIncompleteTitle": "تطبيق التعزيز غير مكتمل",
+        "applyBoostIncompleteDesc": "يبدو أن عملية التعزيز قد انتهت، ولكن لم يتم تأكيد معرف المعاملة.",
+        "boostAppliedTitle": "تم تطبيق التعزيز!",
+        "boostAppliedDesc": "تم تطبيق التعزيز بنجاح باستخدام NFT {nftName}!",
+        "linkCopiedTitle": "Link Copied!",
+        "linkCopiedDesc": "The shareable link for this pool has been copied to your clipboard."
+      }
+    },
+    "unstakeModal": {
+      "title": "إلغاء Staking {tokenName}",
+      "network": "({network})",
+      "close": "إغلاق النافذة المنبثقة",
+      "lockMessage": "* الحد الأدنى للقفل 7 أيام قبل إلغاء Staking.",
+      "amountToUnstake": "المبلغ المراد إلغاء Stakingه",
+      "staked": "Staked",
+      "balance": "الرصيد",
+      "loading": "جاري التحميل...",
+      "hideSummary": "إخفاء ملخص إلغاء Staking",
+      "showSummary": "إظهار ملخص إلغاء Staking",
+      "summaryTitle": "ملخص إلغاء Staking",
+      "summaryUnstakeAmount": "{tokenSymbol} المراد إلغاء Stakingه:",
+      "summaryRemainingStaked": "المتبقي Staked:",
+      "confirmButton": "تأكيد إلغاء Staking",
+      "unstakingButton": "جاري إلغاء Staking...",
+      "connectWalletButton": "توصيل المحفظة لإلغاء Staking",
+      "errorPrefix": "خطأ",
+      "nftBoostZoneTitle": "🚀 منطقة تعزيز NFT",
+      "boostActive": "✅ Staking الخاص بك معزز حاليًا!\n",
+      "boostedAmount": "مبلغ Staking المعزز: {amount} {symbol}",
+      "removeBoostButton": "إزالة التعزيز",
+      "removingBoostButton": "جاري الإزالة...",
+      "alerts": {
+        "invalidInputTitle": "إدخال غير صالح",
+        "invalidInputDesc": "الرجاء توصيل محفظتك، وتحديد مجمع، وإدخال مبلغ إلغاء Staking صالح.",
+        "insufficientStakedTitle": "مبلغ Staked غير كافٍ",
+        "insufficientStakedDesc": "يتجاوز مبلغ إلغاء Staking رصيدك Staked لهذا الرمز المميز.",
+        "unstakeSuccessTitle": "تم إلغاء Staking بنجاح!",
+        "unstakeSuccessDesc": "تم إلغاء Staking {amount} {symbol} بنجاح!",
+        "unstakeFailedTitle": "فشل إلغاء Staking",
+        "unstakeIncompleteTitle": "إلغاء Staking غير مكتمل",
+        "removeBoostFailedTitle": "فشل إزالة التعزيز",
+        "removeBoostIncompleteTitle": "إزالة التعزيز غير مكتملة",
+        "boostRemovedTitle": "تمت إزالة التعزيز!",
+        "boostRemovedDesc": "تمت إزالة التعزيز بنجاح من Staking الخاص بك!",
+        "boostAppliedDesc": "تم تطبيق التعزيز بنجاح باستخدام NFT {nftName}!"
+      },
+      "actionRequired": "الإجراء مطلوب",
+      "connectWalletEnsurePoolData": "الرجاء توصيل محفظتك والتأكد من تحميل بيانات المجمع.",
+      "invalidAmount": "مبلغ غير صالح",
+      "enterValidPositiveAmount": "الرجاء إدخال مبلغ صالح وإيجابي لإلغاء Staking.",
+      "insufficientStake": "Staking غير كافٍ",
+      "unstakeAmountExceedsBalance": "يتجاوز مبلغ إلغاء Staking رصيدك Staked.",
+      "unstakingMightAffectBoost": "قد يؤثر إلغاء Staking على مكافآتك المعززة أو يزيل التعزيز. هل تريد المتابعة؟",
+      "yesUnstake": "نعم، إلغاء Staking",
+      "cancel": "إلغاء",
+      "unstakeSuccessful": "تم إلغاء Staking بنجاح!",
+      "successfullyUnstaked": "تم إلغاء Staking {amount} {symbol} بنجاح!",
+      "removeNftBoost": "إزالة تعزيز NFT؟",
+      "removeNftBoostConfirmation": "سيؤدي هذا إلى إزالة تعزيز NFT من Staking الحالي الخاص بك. يمكنك إضافة تعزيز جديد لاحقًا إذا كنت ترغب في ذلك.",
+      "yesRemoveBoost": "نعم، إزالة التعزيز",
+      "boostRemoved": "تمت إزالة التعزيز!",
+      "nftBoostSuccessfullyRemoved": "تمت إزالة تعزيز NFT بنجاح!",
+      "removeBoostFailed": "فشل إزالة التعزيز",
+      "viewOnExplorer": "عرض على المستكشف",
+      "checkingBoostStatus": "جارٍ التحقق من حالة التعزيز...",
+      "stakeIsBoosted": "الستيك معزز",
+      "removing": "جارٍ الإزالة...",
+      "removeBoost": "إزالة التعزيز",
+      "notBoosted": "غير معزز",
+      "failedToRemoveBoost": "فشل إزالة التعزيز",
+      "hideUnstakingSummary": "إخفاء ملخص إلغاء الستيك",
+      "showUnstakingSummary": "إظهار ملخص إلغاء الستيك",
+      "unstakingSummary": "ملخص إلغاء الستيك",
+      "unstakeAmount": "مبلغ إلغاء الستيك",
+      "currentlyStaked": "حاليًا في الستيك",
+      "unstakeError": "خطأ في إلغاء الستيك",
+      "unknownError": "حدث خطأ غير معروف.",
+      "walletNotConnectedTitle": "المحفظة غير متصلة",
+      "walletNotConnectedDesc": "الرجاء توصيل محفظتك للمتابعة.",
+      "poolErrorTitle": "خطأ في المجمع",
+      "poolErrorDesc": "حدث خطأ أثناء تحميل بيانات المجمع.",
+      "loadingCooldown": "جار تحميل فترة التهدئة...",
+      "daysLetter": "ي",
+      "hoursLetter": "س",
+      "minutesLetter": "د",
+      "secondsLetter": "ث",
+      "readyToUnstake": "جاهز للسحب",
+      "unstakeAvailableIn": "السحب متاح في",
+      "cooldownStatus": "حالة فترة التهدئة",
+      "linkCopiedTitle": "Link Copied!",
+      "linkCopiedDesc": "The shareable link for this pool has been copied to your clipboard."
+    },
+    "PoolCardHeader": {
+      "stake": "Staking {stakeToken}",
+      "earn": "كسب {rewardToken}",
+      "verifiedPool": "مجمع تم التحقق منه",
+      "boostedWithCollection": "معزز بـ NFTs! +{percent}% مع NFTs من \"{collectionName}\".",
+      "boosted": "معزز بـ NFTs! +{percent}%"
+    }
+  },
+  "wallets": {
+    "title": "توصيل المحفظة",
+    "description": "اختر محفظة لتوصيل حسابك.",
+    "connected": "متصل",
+    "closeButtonLabel": "إغلاق اختيار المحفظة"
+  },
+  "SlippagePopup": {
+    "title": "إعدادات المعاملة",
+    "label": "تسامح الانزلاق (%)",
+    "placeholderExample": "مثال، 0.5",
+    "warningHighSlippage": "تحذير: قد يؤدي الانزلاق المرتفع إلى سعر تنفيذ مختلف بشكل كبير.",
+    "infoRevert": "ستتم إعادة معاملتك إذا تغير السعر بشكل غير مواتٍ بأكثر من هذه النسبة المئوية.",
+    "buttonSave": "حفظ الإعدادات",
+    "errorValueBetween": "الرجاء إدخال قيمة بين 0 و 50.",
+    "errorInvalidSlippage": "انزلاق غير صالح",
+    "errorValueEmpty": "لا يمكن أن تكون قيمة الانزلاق فارغة.",
+    "errorValidSlippage": "الرجاء إدخال قيمة انزلاق صالحة (مثال، 0.1 إلى 50)."
+  },
+  "TokenSelectorModal": {
+    "closeModal": "إغلاق النافذة المنبثقة",
+    "searchPlaceholder": "البحث عن الاسم، الرمز، أو لصق العنوان...",
+    "showUnverifiedTokens": "إظهار الرموز المميزة غير المتحقق منها (من القائمة)",
+    "loading": "جاري التحميل...",
+    "error": "خطأ",
+    "noTokensFound": "لم يتم العثور على رموز مميزة لـ \"{searchTerm}\".",
+    "noTokensAvailable": "لا توجد رموز مميزة متاحة.",
+    "couldNotFetchCustomToken": " (تعذر جلب الرمز المميز المخصص)",
+    "tryEnablingUnverified": " حاول تمكين \"إظهار الرموز المميزة غير المتحقق منها.\"",
+    "tokenIcon": "أيقونة الرمز المميز",
+    "unknownName": "اسم غير معروف",
+    "unverified": "غير متحقق منه",
+    "address": "العنوان",
+    "type": "(النوع)",
+    "customFetched": "(تم جلبها مخصص {type})",
+    "legacy": "قديم",
+    "previous": "السابق",
+    "next": "التالي",
+    "page": "صفحة {currentPage} من {totalPages}",
+    "configError": "خطأ في التكوين للبحث عن بيانات تعريف الأصول القابلة للاستبدال.",
+    "coinLegacyError": "Coin-Legacy: {message}",
+    "notFoundOrError": "لم يتم العثور عليه أو خطأ",
+    "coinLegacyInvalidFormat": "Coin-Legacy: تنسيق البيانات الوصفية غير صالح أو غير مكتمل.",
+    "fungibleAssetError": "الأصول القابلة للاستبدال: {message}",
+    "fungibleAssetInvalidTypes": "الأصول القابلة للاستبدال: أنواع البيانات الوصفية غير صالحة (المتوقع سلسلة، سلسلة، رقم).",
+    "fungibleAssetInvalidFormat": "الأصول القابلة للاستبدال: تنسيق البيانات الوصفية غير صالح (المتوقع مصفوفة من 3 عناصر).",
+    "imageLoadError": "فشل تحميل الأيقونة: {iconSrc}. العودة إلى الافتراضي."
+  },
+  "NftBoostSettings": {
+    "nftForBoost": "NFT للتعزيز",
+    "nftAbbreviation": "NFT",
+    "collection": "المجموعة",
+    "change": "تغيير",
+    "clickToSelectNft": "انقر لتحديد NFT",
+    "connectWalletToSelectNft": "توصيل المحفظة لتحديد NFT",
+    "boostPercentage": "نسبة التعزيز (%)",
+    "eg10": "مثال، 10",
+    "boostDescription": "الزيادة المئوية في المكافآت لـ Staking باستخدام هذا NFT."
+  },
+  "NFTList": {
+    "connectWalletPrompt": "الرجاء توصيل محفظتك لرؤية NFTs الخاصة بك.",
+    "loadingNfts": "جاري تحميل NFTs...",
+    "noNftsFound": "لم يتم العثور على NFTs في محفظتك."
+  },
+  "NFTSelectorModal": {
+    "title": "تحديد NFT للتعزيز",
+    "closeModal": "إغلاق النافذة المنبثقة",
+    "filterInfo": "يتم تصفية NFTs لإظهار تلك التي تحتوي على رصيد 1 فقط (عادةً غير قابلة للاستبدال)."
+  },
+  "RewardAmountInput": {
+    "notAvailable": "غير متاح",
+    "error": "خطأ",
+    "rewardsToDistribute": "المكافآت المراد توزيعها",
+    "balance": "الرصيد",
+    "loading": "جاري التحميل...",
+    "errorFetchingBalance": "خطأ في جلب الرصيد",
+    "unknownError": "خطأ غير معروف"
+  },
+  "TokenDisplayButton": {
+    "tokenIconAlt": "أيقونة الرمز المميز",
+    "imageLoadError": "فشل تحميل الأيقونة: {iconSrc}. العودة إلى الافتراضي.",
+    "change": "تغيير",
+    "selectToken": "تحديد {label}"
+  },
+  "UserRewardsDetails": {
+    "error": "خطأ",
+    "notAvailable": "غير متاح",
+    "tokens": "رموز",
+    "successfullyClaimed": "تمت المطالبة بنجاح",
+    "viewOnExplorer": "عرض على المستكشف",
+    "rewardsClaimedTitle": "تمت المطالبة بالمكافآت!",
+    "claimFailedTitle": "فشل المطالبة",
+    "unknownErrorClaiming": "حدث خطأ غير معروف أثناء المطالبة بالمكافآت.",
+    "claimIncompleteTitle": "المطالبة غير مكتملة",
+    "claimIncompleteMessage": "يبدو أن عملية المطالبة قد انتهت، ولكن لم يتم تأكيد معرف المعاملة. الرجاء التحقق من رصيدك والمحاولة مرة أخرى إذا لزم الأمر.",
+    "rewardTokenAlt": "رمز المكافأة",
+    "yourPending": "مكافآتك المعلقة {symbol}",
+    "rewards": "المكافآت",
+    "couldNotLoadPendingRewards": "تعذر تحميل المكافآت المعلقة",
+    "noStakeFound": "لم يتم العثور على Staking.",
+    "networkError": "خطأ في الشبكة.",
+    "claiming": "جاري المطالبة...",
+    "claimRewardsButton": "المطالبة بـ {symbol}",
+    "processingClaim": "جاري معالجة المطالبة...",
+    "claimError": "خطأ في المطالبة",
+    "unknownError": "خطأ غير معروف",
+    "connectWallet": "ربط المحفظة"
+  },
+  "PoolSearchControls": {
+    "verified": "تم التحقق",
+    "unverified": "غير موثق",
+    "concluded": "مكتمل",
+    "all": "جميع المجمعات",
+    "searchPlaceholder": "البحث حسب اسم الرمز المميز أو رمزه...",
+    "searchButton": "بحث",
+    "verifiedTooltipMessage": "تم التحقق من المجمعات هي المجمعات التي تم إنشاء رموزها عبر مشغل معتمد أو اجتازت مراجعة العقد لدينا دون أي مخالفات. إذا كنت ترغب في التحقق من مجمعك، يرجى الاتصال بنا على تيليجرام أو تويتر."
+  },
+  "Info": {
+    "loading": "جاري التحميل...",
+    "errorFetchingTvl": "خطأ في جلب TVL:",
+    "staking": "Staking",
+    "pools": "مجمعات",
+    "stakeMemes": "Staking الميمات",
+    "earnMemes": "كسب الميمات",
+    "totalValueLocked": "إجمالي القيمة المقفلة",
+    "clickToCreatePool": "انقر لإنشاء مجمع"
+  }
+}
