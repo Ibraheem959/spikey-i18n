@@ -1,0 +1,182 @@
+{
+  "translation": {
+    "connectWallet": "Connect Wallet",
+    "disconnect": "Disconnect",
+    "leaderboard": "Leaderboard",
+    "victory": "Supra Victory!",
+    "defeat": "The Oracle Prevails...",
+    "tie": "Universal Balance! (Tie)",
+    "getFreeSupra": "Get free SUPRA",
+    "playAgain": "Play Again",
+    "gameTitle": "Fair Rock, Paper, Scissors",
+    "chooseDestiny": "Choose your destiny!",
+    "clickShape": "Click on a shape",
+    "oracleDeciding": "The Supra DVRF is deciding...",
+    "playerChose": "You:",
+    "oracleChose": "Oracle:",
+    "yourChoice": "You:",
+    "oracleChoice": "Oracle:",
+    "txHash": "Transaction Hash",
+    "rock": "Rock",
+    "paper": "Paper",
+    "scissors": "Scissors",
+    "payout": "Payout",
+    "yourBalance": "Your Balance:",
+    "thinking": {
+      "title": "Oracle is deciding your fate..."
+    },
+    "treasury": {
+      "title": "Total Game Jackpot",
+      "loading": "Loading...",
+      "error": "Error"
+    },
+    "result": {
+      "win": "🎉 YOU WON! 🎉",
+      "lose": "💥 YOU LOST! 💥",
+      "tie": "🌟 IT'S A TIE! 🌟"
+    },
+    "bet": {
+      "title": "Place your bet",
+      "max": "MAX"
+    }
+  },
+  "roulette": {
+    "title": "Supra Roulette",
+    "gameMode": "Game Mode",
+    "rouletteMode": "Roulette",
+    "raffleMode": "Raffle",
+    "spin_section_title": "Spin the Wheel of Fortune!",
+    "spin_button": "Spin Wheel",
+    "spinning": "Spinning...",
+    "spin_success": "Spin successful! Transaction: {tx}",
+    "spin_no_tx": "Spin initiated, but no transaction hash returned.",
+    "spin_error": "Spin failed: {error}",
+    "error_label": "Error",
+    "result_placeholder": "Results will appear here after spinning.",
+    "transaction_hash": "Transaction Hash",
+    "searchingWinner": "Searching for winner...",
+    "raffleCreated": "Raffle created! Waiting for dVRF...",
+    "loadingPrizes": "Loading Prizes...",
+    "errorLoadingPrizes": "Error Loading Prizes",
+    "selectToken": "Select Token",
+    "selectNFT": "Select NFT",
+    "amountGreaterThanZero": "Amount must be greater than 0",
+    "communityTreasury": {
+      "title": "Community Treasury",
+      "tooltip": "Send tokens to this address to increase the prize pool and support the community",
+      "unavailable": "Unavailable"
+    },
+    "prizeDetails": {
+      "title": "Prize Details",
+      "selectPrize": "Select Prize",
+      "tokens": "Tokens",
+      "nfts": "NFTs",
+      "selectToken": "Select Token",
+      "selectNFT": "Select NFT",
+      "amount": "Amount to Raffle",
+      "balance": "Balance",
+      "insufficientBalance": "Insufficient balance",
+      "validAmount": "Valid amount",
+      "enterAmount": "Enter amount"
+    },
+    "participants": {
+      "title": "Participants",
+      "enterTheDraw": "Enter the Draw",
+      "addParticipants": "Add participants",
+      "placeholder": "Paste addresses here...",
+      "description": "Add wallet addresses to participate in the raffle",
+      "count": "{count} participants"
+    },
+    "raffle": {
+      "description": "Create a raffle with your prize. Add participants and let dVRF pick a random winner",
+      "winnerTakesAll": "The winner takes it all",
+      "startButton": "START RAFFLE",
+      "starting": "Starting...",
+      "winner": "Winner",
+      "prizeWon": "Prize Won",
+      "congratulations": "Congratulations!",
+      "viewTransaction": "View Transaction",
+      "connectWalletTitle": "Connect Wallet",
+      "connectWalletDescription": "Connect your wallet to create a raffle with prizes",
+      "connectWalletButton": "Connect Wallet"
+    },
+    "modal": {
+      "youWon": "YOU WON!",
+      "youLost": "Better Luck Next Time",
+      "winner": "WINNER!",
+      "prize": "Prize",
+      "prizeWon": "Prize Won",
+      "close": "Close",
+      "viewTx": "View Transaction",
+      "dvrfNonce": "dVRF Nonce",
+      "transaction": "Transaction"
+    }
+  },
+  "Home": {
+    "rpsTitle": "Rock Paper Scissors",
+    "rpsDescription": "Battle the Oracle. Strategy meets destiny!",
+    "rouletteTitle": "Cosmic Roulette",
+    "rouletteDescription": "Spin the wheel and claim cosmic rewards!",
+    "raffleTitle": "Raffle Draw",
+    "raffleDescription": "Create raffles and let dVRF pick winners!"
+  },
+  "wallets": {
+    "connected": "Connected",
+    "title": "Connect Wallet",
+    "closeButtonLabel": "Close",
+    "description": "Connect your wallet to continue"
+  },
+  "Footer": {
+    "brandName": "Spikey Corp",
+    "copyright": "© {year} Spikey Corp. All rights reserved.",
+    "explore": "Explore",
+    "community": "Join the Community",
+    "whitepaper": "Whitepaper",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "secretTooltip": "What's this?",
+    "secretTooltip2": "Keep going...",
+    "secretTooltip3": "One more time!"
+  },
+  "TokenSelectorModal": {
+    "closeModal": "Close modal",
+    "searchPlaceholder": "Search name, symbol, or paste address...",
+    "showUnverifiedTokens": "Show unverified tokens (from list)",
+    "loading": "Loading...",
+    "error": "Error",
+    "noTokensFound": "No tokens found for \"{searchTerm}\".",
+    "noTokensAvailable": "No tokens available.",
+    "couldNotFetchCustomToken": " (Could not fetch custom token)",
+    "tryEnablingUnverified": " Try enabling \"Show unverified tokens.\"",
+    "tokenIcon": "token icon",
+    "unknownName": "Unknown Name",
+    "unverified": "Unverified",
+    "address": "Address",
+    "type": "(Type)",
+    "customFetched": "(Custom Fetched {type})",
+    "legacy": "Legacy",
+    "previous": "Previous",
+    "next": "Next",
+    "page": "Page {currentPage} of {totalPages}",
+    "configError": "Configuration error for Fungible Asset metadata lookup.",
+    "coinLegacyError": "Coin-Legacy: {message}",
+    "notFoundOrError": "Not found or error",
+    "coinLegacyInvalidFormat": "Coin-Legacy: Metadata format is invalid or incomplete.",
+    "fungibleAssetError": "Fungible Asset: {message}",
+    "fungibleAssetInvalidTypes": "Fungible Asset: Metadata types are invalid (expected string, string, number).",
+    "fungibleAssetInvalidFormat": "Fungible Asset: Metadata format is invalid (expected an array of 3 elements).",
+    "imageLoadError": "Image failed to load: {iconSrc}. Falling back to default."
+  },
+  "Leaderboard": {
+    "title": "Leaderboard",
+    "description": "See who's winning the most games!",
+    "comingSoon": "Coming Soon",
+    "underConstruction": "Leaderboard Under Construction",
+    "competeForGlory": "Compete for Glory",
+    "trackWins": "Track your wins, climb the ranks, and prove you're the ultimate champion. The leaderboard is being crafted to showcase the best players in the Spike Universe.",
+    "topPlayers": "Top Players",
+    "winStreaks": "Win Streaks",
+    "achievements": "Achievements",
+    "backToGames": "Back to Games"
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "translation": {
+    "connectWallet": "Conectar Billetera",
+    "disconnect": "Desconectar",
+    "leaderboard": "Tabla de Líderes",
+    "victory": "¡Victoria Supra!",
+    "defeat": "El Oráculo Prevalece...",
+    "tie": "¡Equilibrio Universal! (Empate)",
+    "getFreeSupra": "Obtén SUPRA gratis",
+    "playAgain": "Jugar de Nuevo",
+    "gameTitle": "Piedra, Papel o Tijeras",
+    "chooseDestiny": "¡Elige tu destino!",
+    "clickShape": "Haz clic en una forma",
+    "oracleDeciding": "El DVRF de Supra está decidiendo...",
+    "playerChose": "Elegiste:",
+    "oracleChose": "El Oráculo:",
+    "yourChoice": "Tú:",
+    "oracleChoice": "Oráculo:",
+    "txHash": "Hash de Transacción",
+    "rock": "Piedra",
+    "paper": "Papel",
+    "scissors": "Tijeras",
+    "payout": "Recompensa",
+    "yourBalance": "Tu Saldo:",
+    "thinking": {
+      "title": "El Oráculo está decidiendo tu destino..."
+    },
+    "treasury": {
+      "title": "Pozo Total del Juego",
+      "loading": "Cargando...",
+      "error": "Error"
+    },
+    "result": {
+      "win": "🎉 ¡GANASTE! 🎉",
+      "lose": "💥 ¡PERDISTE! 💥",
+      "tie": "🌟 ¡ES UN EMPATE! 🌟"
+    },
+    "bet": {
+      "title": "Haz tu apuesta",
+      "max": "MÁX"
+    }
+  },
+  "roulette": {
+    "title": "Ruleta Supra",
+    "gameMode": "Modo de Juego",
+    "rouletteMode": "Ruleta",
+    "raffleMode": "Sorteo",
+    "spin_section_title": "¡Gira la Rueda de la Fortuna!",
+    "spin_button": "Girar Rueda",
+    "spinning": "Girando...",
+    "spin_success": "¡Giro exitoso! Transacción: {tx}",
+    "spin_no_tx": "Giro iniciado, pero no se devolvió el hash de la transacción.",
+    "spin_error": "Fallo al girar: {error}",
+    "error_label": "Error",
+    "result_placeholder": "Los resultados aparecerán aquí después de girar.",
+    "transaction_hash": "Hash de Transacción",
+    "searchingWinner": "Buscando ganador...",
+    "raffleCreated": "¡Sorteo creado! Esperando dVRF...",
+    "loadingPrizes": "Cargando Premios...",
+    "errorLoadingPrizes": "Error al Cargar Premios",
+    "selectToken": "Seleccionar Token",
+    "selectNFT": "Seleccionar NFT",
+    "amountGreaterThanZero": "La cantidad debe ser mayor que 0",
+    "communityTreasury": {
+      "title": "Tesorería Comunitaria",
+      "tooltip": "Envía tokens a esta dirección para aumentar el pozo de premios y apoyar a la comunidad",
+      "unavailable": "No disponible"
+    },
+    "prizeDetails": {
+      "title": "Detalles del Premio",
+      "selectPrize": "Seleccionar Premio",
+      "tokens": "Tokens",
+      "nfts": "NFTs",
+      "selectToken": "Seleccionar Token",
+      "selectNFT": "Seleccionar NFT",
+      "amount": "Cantidad a Sortear",
+      "balance": "Saldo",
+      "insufficientBalance": "Saldo insuficiente",
+      "validAmount": "Cantidad válida",
+      "enterAmount": "Ingresa cantidad"
+    },
+    "participants": {
+      "title": "Participantes",
+      "enterTheDraw": "Entrar al Sorteo",
+      "addParticipants": "Agregar participantes",
+      "placeholder": "Pega direcciones aquí...",
+      "description": "Agrega direcciones de billeteras para participar en el sorteo",
+      "count": "{count} participantes"
+    },
+    "raffle": {
+      "description": "Crea un sorteo con tu premio. Agrega participantes y deja que dVRF elija un ganador aleatorio",
+      "winnerTakesAll": "El ganador se lo lleva todo",
+      "startButton": "INICIAR SORTEO",
+      "starting": "Iniciando...",
+      "winner": "Ganador",
+      "prizeWon": "Premio Ganado",
+      "congratulations": "¡Felicidades!",
+      "viewTransaction": "Ver Transacción",
+      "connectWalletTitle": "Conectar Billetera",
+      "connectWalletDescription": "Conecta tu billetera para crear un sorteo con premios",
+      "connectWalletButton": "Conectar Billetera"
+    },
+    "modal": {
+      "youWon": "¡GANASTE!",
+      "youLost": "Mejor Suerte la Próxima",
+      "winner": "¡GANADOR!",
+      "prize": "Premio",
+      "prizeWon": "Premio Ganado",
+      "close": "Cerrar",
+      "viewTx": "Ver Transacción",
+      "dvrfNonce": "Nonce dVRF",
+      "transaction": "Transacción"
+    }
+  },
+  "Home": {
+    "rpsTitle": "Piedra, Papel o Tijera",
+    "rpsDescription": "Batalla contra el Oráculo. ¡La estrategia se encuentra con el destino!",
+    "rouletteTitle": "Ruleta Cósmica",
+    "rouletteDescription": "¡Gira la rueda y reclama recompensas cósmicas!",
+    "raffleTitle": "Sorteo",
+    "raffleDescription": "¡Crea sorteos y deja que dVRF elija ganadores!"
+  },
+  "wallets": {
+    "connected": "Conectado",
+    "title": "Conectar Billetera",
+    "closeButtonLabel": "Cerrar",
+    "description": "Conecta tu billetera para continuar"
+  },
+  "Footer": {
+    "brandName": "Spikey Corp",
+    "copyright": "© {year} Spikey Corp. Todos los derechos reservados.",
+    "explore": "Explora",
+    "community": "Únete a la Comunidad",
+    "whitepaper": "Libro Blanco",
+    "terms": "Términos de Servicio",
+    "privacy": "Política de Privacidad",
+    "secretTooltip": "¿Qué es esto?",
+    "secretTooltip2": "Sigue adelante...",
+    "secretTooltip3": "¡Una vez más!"
+  },
+  "TokenSelectorModal": {
+    "closeModal": "Cerrar modal",
+    "searchPlaceholder": "Buscar nombre, símbolo o pegar dirección...",
+    "showUnverifiedTokens": "Mostrar tokens no verificados (de la lista)",
+    "loading": "Cargando...",
+    "error": "Error",
+    "noTokensFound": "No se encontraron tokens para \"{searchTerm}\".",
+    "noTokensAvailable": "No hay tokens disponibles.",
+    "couldNotFetchCustomToken": " (No se pudo obtener el token personalizado)",
+    "tryEnablingUnverified": " Intenta habilitar \"Mostrar tokens no verificados.\"",
+    "tokenIcon": "ícono del token",
+    "unknownName": "Nombre Desconocido",
+    "unverified": "No verificado",
+    "address": "Dirección",
+    "type": "(Tipo)",
+    "customFetched": "(Obtenido Personalizado {type})",
+    "legacy": "Legacy",
+    "previous": "Anterior",
+    "next": "Siguiente",
+    "page": "Página {currentPage} de {totalPages}",
+    "configError": "Error de configuración para la búsqueda de metadatos de Activos Fungibles.",
+    "coinLegacyError": "Coin-Legacy: {message}",
+    "notFoundOrError": "No encontrado o error",
+    "coinLegacyInvalidFormat": "Coin-Legacy: El formato de metadatos es inválido o incompleto.",
+    "fungibleAssetError": "Activo Fungible: {message}",
+    "fungibleAssetInvalidTypes": "Activo Fungible: Los tipos de metadatos son inválidos (se esperaba string, string, number).",
+    "fungibleAssetInvalidFormat": "Activo Fungible: El formato de metadatos es inválido (se esperaba un array de 3 elementos).",
+    "imageLoadError": "Error al cargar imagen: {iconSrc}. Usando imagen por defecto."
+  },
+  "Leaderboard": {
+    "title": "Tabla de Líderes",
+    "description": "¡Mira quién está ganando más juegos!",
+    "comingSoon": "Próximamente",
+    "underConstruction": "Tabla de Líderes en Construcción",
+    "competeForGlory": "Compite por la Gloria",
+    "trackWins": "Rastrea tus victorias, escala posiciones y demuestra que eres el campeón definitivo. La tabla de líderes está siendo creada para mostrar a los mejores jugadores del Universo Spike.",
+    "topPlayers": "Mejores Jugadores",
+    "winStreaks": "Rachas de Victorias",
+    "achievements": "Logros",
+    "backToGames": "Volver a Juegos"
+  }
+}
