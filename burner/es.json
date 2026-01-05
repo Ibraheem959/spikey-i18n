@@ -1,0 +1,123 @@
+{
+  "Home": {
+    "title": "🔥 QUEMADOR DE MEMES 🔥",
+    "description": "¡Lanza tu meme al quemador y mira cómo las llamas lo incineran!",
+    "selectMeme": "Selecciona un Meme",
+    "selectToken": "Selecciona un token",
+    "availableBalance": "Saldo Disponible",
+    "connectWallet": "Conectar Billetera",
+    "tokensToBurn": "Tokens a Quemar",
+    "burning": "🔥 QUEMANDO...",
+    "burn": "🔥 ¡QUEMAR!",
+    "Token": "Token",
+    "BurnAmount": "Cantidad a Quemar"
+  },
+  "TokenSelectorModal": {
+    "selectToken": "Selecciona un Token",
+    "searchPlaceholder": "Buscar por nombre, símbolo o dirección",
+    "loading": "Cargando...",
+    "error": "Error",
+    "showOnlyVerified": "Mostrar solo verificados",
+    "unknownSymbol": "Símbolo Desconocido",
+    "noTokensMatch": "No hay tokens que coincidan con tus criterios.",
+    "closeModal": "Cerrar modal",
+    "showUnverifiedTokens": "Mostrar tokens no verificados",
+    "noTokensFound": "No se encontraron tokens para '{searchTerm}'.",
+    "noTokensAvailable": "No hay tokens disponibles.",
+    "couldNotFetchCustomToken": "No se pudo obtener el token personalizado.",
+    "tryEnablingUnverified": "Intenta habilitar 'Mostrar tokens no verificados'.",
+    "tokenIcon": "Icono del token",
+    "imageLoadError": "Error al cargar la imagen desde {iconSrc}",
+    "unknownName": "Nombre Desconocido",
+    "unverified": "No verificado",
+    "address": "Dirección",
+    "type": "Tipo",
+    "customFetched": "Obtenido personalizado ({type})",
+    "legacy": "Legado",
+    "previous": "Anterior",
+    "page": "Página {currentPage} de {totalPages}",
+    "next": "Siguiente",
+    "configError": "Error de configuración: Contrato o módulo de staking no establecido.",
+    "coinLegacyError": "Error al obtener metadatos de Coin-Legacy: {message}",
+    "notFoundOrError": "No encontrado o error",
+    "coinLegacyInvalidFormat": "Formato de metadatos de Coin-Legacy inválido.",
+    "fungibleAssetError": "Error al obtener metadatos de Fungible Asset: {message}",
+    "fungibleAssetInvalidTypes": "Tipos de metadatos de Fungible Asset inválidos.",
+    "fungibleAssetInvalidFormat": "Formato de metadatos de Fungible Asset inválido."
+  },
+  "wallets": {
+    "connected": "Conectado",
+    "title": "Conectar Billetera",
+    "closeButtonLabel": "Cerrar",
+    "description": "Conecta tu billetera para continuar"
+  },
+  "Footer": {
+    "secretTooltip": "¡Haz clic 3 veces para un secreto!",
+    "secretTooltip2": "Casi...",
+    "secretTooltip3": "¡Lo encontraste!",
+    "copyright": "© {year} MemeBurn. Todos los derechos reservados.",
+    "terms": "Términos de Servicio",
+    "privacy": "Política de Privacidad",
+    "whitepaper": "Whitepaper"
+  },
+  "BurnAmountInput": {
+    "notAvailable": "N/D",
+    "error": "Error",
+    "balance": "Saldo",
+    "loading": "Cargando...",
+    "errorFetchingBalance": "Error al obtener el saldo",
+    "unknownError": "Error desconocido"
+  },
+  "RewardAmountInput": {
+    "notAvailable": "N/D",
+    "error": "Error",
+    "rewardsToDistribute": "Recompensas a Distribuir",
+    "balance": "Saldo",
+    "loading": "Cargando...",
+    "errorFetchingBalance": "Error al obtener el saldo",
+    "unknownError": "Error desconocido"
+  },
+  "TokenDisplayButton": {
+    "tokenIconAlt": "Icono del token",
+    "imageLoadError": "Error al cargar la imagen desde {iconSrc}",
+    "change": "Cambiar",
+    "selectToken": "Seleccionar token {label}"
+  },
+  "translation": {
+    "earn": "Ganar",
+    "souls": "Souls",
+    "disconnect": "Desconectar",
+    "connectWallet": "Conectar Billetera",
+    "loading": "Cargando...",
+    "getFreeSupra": "Obtener Supra Gratis",
+    "selectToken": "Seleccionar token",
+    "selectButtonLabel": "Seleccionar",
+    "selectTokenTitle": "Seleccionar token",
+    "countdown": {
+      "completed": "¡El evento está aquí!",
+      "days": "Días",
+      "hours": "Horas",
+      "minutes": "Minutos",
+      "seconds": "Segundos",
+      "spikeyChamp": "Spikey Champ"
+    }
+  },
+  "ForgeSoul": {
+    "title": "Forjar Alma",
+    "description": "Forja tu alma quemando tokens.",
+    "communityEmberTitle": "Ascua Comunitaria",
+    "yourKindlingTitle": "Tu Yesca",
+    "mainTitle": "Alimenta la Forja: El Incinerador de Memes",
+    "mainDescription": "Contribuye tokens al fondo de la comunidad, enciéndelos en llamas y gana Soulbound XP como prueba de tu sacrificio.",
+    "captureSoul": "🔥 ¡Forja tu Alma! 🔥",
+    "forging": "Forjando...",
+    "copy": "Copiar",
+    "copied": "¡Copiado!",
+    "balance": "Balance",
+    "amount": "monto:",
+    "Token": "Token",
+    "selectSoulToken": "Selecciona un Token",
+    "selectToken": "Selecciona un Token",
+    "loading": "Cargando..."
+  }
+}
