@@ -1,0 +1,182 @@
+{
+  "translation": {
+    "connectWallet": "Haɗa Wallet",
+    "disconnect": "Cire Wallet",
+    "leaderboard": "Teburin Jarumai (Leaderboard)",
+    "victory": "Nasara ga Supra!",
+    "defeat": "Oracle Ya Yi Nasara...",
+    "tie": "An Yi Kunne-da-Kunne!",
+    "getFreeSupra": "Sami SUPRA kyauta",
+    "playAgain": "Sake Bugawa",
+    "gameTitle": "Rock, Paper, Scissors, cikin adalci",
+    "chooseDestiny": "Zaɓi kaddararka!",
+    "clickShape": "Danna kan hoto",
+    "oracleDeciding": "Supra dVRF na yanke hukunci...",
+    "playerChose": "Kai:",
+    "oracleChose": "Oracle:",
+    "yourChoice": "Kai:",
+    "oracleChoice": "Oracle:",
+    "txHash": "Transaction Hash",
+    "rock": "Dutse (Rock)",
+    "paper": "Takarda (Paper)",
+    "scissors": "Almakashi (Scissors)",
+    "payout": "Kuɗin Nasara (Payout)",
+    "yourBalance": "Balance ɗinka:",
+    "thinking": {
+      "title": "Oracle na duba raban ka..."
+    },
+    "treasury": {
+      "title": "Jumillar Jackpot na Wasan",
+      "loading": "Yana lodi...",
+      "error": "An samu kuskure"
+    },
+    "result": {
+      "win": "🎉 KA YI NASARA! 🎉",
+      "lose": "💥 KA YI RASHIN NASARA! 💥",
+      "tie": "🌟 AN YI CANZARAS! 🌟"
+    },
+    "bet": {
+      "title": "Saka kudinka (Bet)",
+      "max": "MAX"
+    }
+  },
+  "roulette": {
+    "title": "Supra Roulette",
+    "gameMode": "Yanayin Wasa",
+    "rouletteMode": "Roulette",
+    "raffleMode": "Raffle",
+    "spin_section_title": "Juya Dabaran Sa'a!",
+    "spin_button": "Juya Dabara",
+    "spinning": "Ana juyawa...",
+    "spin_success": "An juya cikin nasara! Transaction: {tx}",
+    "spin_no_tx": "An fara juyawa, amma ba a sami hash ɗin transaction ba.",
+    "spin_error": "Juyawa ya gaza: {error}",
+    "error_label": "Kuskure",
+    "result_placeholder": "Sakamako zai bayyana a nan bayan an gama juyawa.",
+    "transaction_hash": "Transaction Hash",
+    "searchingWinner": "Ana neman mai nasara...",
+    "raffleCreated": "An ƙirƙiri Raffle! Ana jiran dVRF...",
+    "loadingPrizes": "Ana loda Kyaututtuka...",
+    "errorLoadingPrizes": "Kuskure wajen loda kyaututtuka",
+    "selectToken": "Zaɓi Token",
+    "selectNFT": "Zaɓi NFT",
+    "amountGreaterThanZero": "Dole adadin ya fi sifili 0",
+    "communityTreasury": {
+      "title": "Community Treasury",
+      "tooltip": "Tura tokens zuwa wannan adireshin don ƙara yawan kyaututtuka da tallafawa al'umma",
+      "unavailable": "Ba ya aiki"
+    },
+    "prizeDetails": {
+      "title": "Bayanin Kyauta",
+      "selectPrize": "Zaɓi Kyauta",
+      "tokens": "Tokens",
+      "nfts": "NFTs",
+      "selectToken": "Zaɓi Token",
+      "selectNFT": "Zaɓi NFT",
+      "amount": "Adadin da za a yi Raffle",
+      "balance": "Balance",
+      "insufficientBalance": "Balance bai isa ba",
+      "validAmount": "Adadin ya yi daidai",
+      "enterAmount": "Saka adadi"
+    },
+    "participants": {
+      "title": "Masu Shiga",
+      "enterTheDraw": "Shiga Cikin Zana",
+      "addParticipants": "Ƙara masu shiga",
+      "placeholder": "Manna adiresoshin a nan...",
+      "description": "Ƙara adiresoshin wallet don shiga cikin raffle",
+      "count": "Masu shiga guda {count}"
+    },
+    "raffle": {
+      "description": "Ƙirƙiri raffle tare da kyautarka. Ƙara masu shiga sannan dVRF zai zaɓi mai nasara ta hanyan sa'a",
+      "winnerTakesAll": "Mai nasara zai kwashe komai",
+      "startButton": "FARA RAFFLE",
+      "starting": "Ana farawa...",
+      "winner": "Mai Nasara",
+      "prizeWon": "Kyautar da aka ci",
+      "congratulations": "Taya Murna!",
+      "viewTransaction": "Duba Transaction",
+      "connectWalletTitle": "Haɗa Wallet",
+      "connectWalletDescription": "Haɗa wallet ɗinka don ƙirƙirar raffle tare da kyaututtuka",
+      "connectWalletButton": "Haɗa Wallet"
+    },
+    "modal": {
+      "youWon": "KA YI NASARA!",
+      "youLost": "Zai Yi Kyau Wani Karon",
+      "winner": "MAI NASARA!",
+      "prize": "Kyauta",
+      "prizeWon": "Kyautar da aka ci",
+      "close": "Rufe",
+      "viewTx": "Duba Transaction",
+      "dvrfNonce": "dVRF Nonce",
+      "transaction": "Transaction"
+    }
+  },
+  "Home": {
+    "rpsTitle": "Rock Paper Scissors",
+    "rpsDescription": "Yi yaƙi da Oracle. Hikima ta haɗu da rabo!",
+    "rouletteTitle": "Cosmic Roulette",
+    "rouletteDescription": "Juya dabara don samun kyaututtukan cosmic!",
+    "raffleTitle": "Raffle Draw",
+    "raffleDescription": "Ƙirƙiri raffles sannan ka bar dVRF ya zaɓi masu nasara!"
+  },
+  "wallets": {
+    "connected": "An haɗa",
+    "title": "Haɗa Wallet",
+    "closeButtonLabel": "Rufe",
+    "description": "Haɗa wallet ɗinka don ci gaba"
+  },
+  "Footer": {
+    "brandName": "Spikey Corp",
+    "copyright": "© {year} Spikey Corp. Duk haƙƙi ya tabbata.",
+    "explore": "Bincika",
+    "community": "Shiga Community",
+    "whitepaper": "Whitepaper",
+    "terms": "Sharuɗɗan Amfani",
+    "privacy": "Tsarin Tsare Sirri",
+    "secretTooltip": "Mecece wannan?",
+    "secretTooltip2": "Ci gaba da tafiya...",
+    "secretTooltip3": "Har sau ɗaya!"
+  },
+  "TokenSelectorModal": {
+    "closeModal": "Rufe",
+    "searchPlaceholder": "Nemi suna, symbol, ko manna adireshi...",
+    "showUnverifiedTokens": "Nuna token ɗin da ba a tantance ba",
+    "loading": "Yana lodi...",
+    "error": "Kuskure",
+    "noTokensFound": "Ba a sami token na \"{searchTerm}\" ba.",
+    "noTokensAvailable": "Babu token da ke akwai.",
+    "couldNotFetchCustomToken": " (An kasa kamo custom token)",
+    "tryEnablingUnverified": " Gwada kunna \"Nuna token ɗin da ba a tantance ba.\"",
+    "tokenIcon": "token icon",
+    "unknownName": "Suna da ba a sani ba",
+    "unverified": "Ba a tantance ba",
+    "address": "Adireshi",
+    "type": "(Nau'i)",
+    "customFetched": "(Custom Fetched {type})",
+    "legacy": "Legacy",
+    "previous": "Baya",
+    "next": "Gaba",
+    "page": "Shafi na {currentPage} cikin {totalPages}",
+    "configError": "Kuskuren tsari wajen duba metadata na Fungible Asset.",
+    "coinLegacyError": "Coin-Legacy: {message}",
+    "notFoundOrError": "Ba a samu ba ko an samu kuskure",
+    "coinLegacyInvalidFormat": "Coin-Legacy: Tsarin metadata ba daidai ba ne.",
+    "fungibleAssetError": "Fungible Asset: {message}",
+    "fungibleAssetInvalidTypes": "Fungible Asset: Nau'in metadata ba daidai ba ne.",
+    "fungibleAssetInvalidFormat": "Fungible Asset: Tsarin metadata bai cika ba.",
+    "imageLoadError": "Hoto ya gaza loduwa: {iconSrc}. Ana amfani da na asali."
+  },
+  "Leaderboard": {
+    "title": "Teburin Jarumai (Leaderboard)",
+    "description": "Duba waɗanda suka fi yin nasara a wasanni!",
+    "comingSoon": "Zai Zo Nan Barka",
+    "underConstruction": "Ana kan gyara Teburin Jarumai",
+    "competeForGlory": "Yi Gwagwarmayar Neman Daraja",
+    "trackWins": "Bincika nasarorinka, haura matsayi, kuma ka tabbatar da cewa kai ne babban zakara. Ana gina wannan bangaren ne don nuna kwararrun 'yan wasa a Spikey Universe.",
+    "topPlayers": "Manyan 'Yan Wasa",
+    "winStreaks": "Nasarorin da akayi a Jejjere",
+    "achievements": "Abubuwan Da Aka Cimma",
+    "backToGames": "Koma Zuwa Wasanni"
+  }
+}
